@@ -55,5 +55,6 @@ userscore=0;
 computerscore=0;
 user.innerText = userscore;
 comp.innerText =computerscore;
+    result.innerText="winner =>";
 }
 );
